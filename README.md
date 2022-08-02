@@ -1,7 +1,6 @@
+
 ## Server for synchronization of Google SpreadSheets and PostgreSQL
-
-
-
+### view video -> https://imgur.com/a/60WCBvf
 
 ## How to start?
 * Usage Python 3.9
