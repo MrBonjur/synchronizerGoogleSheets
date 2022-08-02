@@ -51,7 +51,8 @@ Go to the project folder
 
 #### run:
 
-```docker build . -t app:latest
+```
+docker build . -t app:latest
 docker run app:latest
 ```
 
